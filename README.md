@@ -9,4 +9,6 @@ ________________________________________________________________________________
   <p>You can call me Tulia, I'm twenty years old :)</p>
   <p><strong>!Please, don't interact with me if you're under eighteen!</strong></p>
   <p>I'm a big horror enjoyer, everything from tacky old movies to reddit posts and args.</p>
+  <p>I also love indie folk, metal and blues.</p>
+  <p>If you want to know more check out my cardd :)</p>
 </div>
