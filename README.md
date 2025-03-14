@@ -38,6 +38,9 @@
   <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
     <img src="https://blinkies.cafe/b/blinkiesCafe-UT.gif" alt="Blinkie 4" style="height: 20px; width: auto;">
   </a>
+  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://blinkies.cafe/b/blinkiesCafe-CW.gif" alt="Blinkie 5" style="height: 20px; width: auto;">
+  </a>
 </div>
 
 
