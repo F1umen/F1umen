@@ -5,4 +5,6 @@
 
 __________________________________________________________________________________________
 
-
+I'm new here, still learning how to use this site.
+You can call me Tulia, I'm twenty years old :) Please, don't interact with me if you're under eighteen!
+I'm a big horror enjoyer, everything from tacky old movies to reddit posts and args.
