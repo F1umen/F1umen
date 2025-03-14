@@ -25,24 +25,24 @@
   <p>ps. if you come from PonyTown, just know you're welcome to cuddle, chat, and all. Just don't try to rp with me, I get awkward, haha.</p>
 </div>
 
-<div style="text-align: center;">
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 20px;">
-    <img src="https://blinkies.cafe/b/blinkiesCafe-CW.gif" alt="Blinkie 2" style="height: 20px; width: auto;">
+<div class="blinkies-container">
+  <a href="https://blinkies.cafe" target="_blank" class="blinkie">
+    <img src="https://blinkies.cafe/b/blinkiesCafe-CW.gif" alt="Blinkie 2">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 20px;">
-    <img src="https://blinkies.cafe/b/display/0231-treeforest.gif" alt="Blinkie 4" style="height: 20px; width: auto;">
+  <a href="https://blinkies.cafe" target="_blank" class="blinkie">
+    <img src="https://blinkies.cafe/b/display/0231-treeforest.gif" alt="Blinkie 4">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 20px;">
-    <img src="https://i.imgur.com/yrJOrNo.gif" alt="Blinkie 5" style="height: 20px; width: auto;">
+  <a href="https://blinkies.cafe" target="_blank" class="blinkie">
+    <img src="https://i.imgur.com/yrJOrNo.gif" alt="Blinkie 5">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 20px;">
-    <img src="https://i.imgur.com/jiujEpM.gif" alt="Blinkie 6" style="height: 20px; width: auto;">
+  <a href="https://blinkies.cafe" target="_blank" class="blinkie">
+    <img src="https://i.imgur.com/jiujEpM.gif" alt="Blinkie 6">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 20px;">
-    <img src="https://i.imgur.com/eAigpDv.gif" alt="Blinkie 7" style="height: 20px; width: auto;">
+  <a href="https://blinkies.cafe" target="_blank" class="blinkie">
+    <img src="https://i.imgur.com/eAigpDv.gif" alt="Blinkie 7">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 20px;">
-    <img src="https://i.imgur.com/haxK88b.gif" alt="Blinkie 8" style="height: 20px; width: auto;">
+  <a href="https://blinkies.cafe" target="_blank" class="blinkie">
+    <img src="https://i.imgur.com/haxK88b.gif" alt="Blinkie 8">
   </a>
 </div>
 
