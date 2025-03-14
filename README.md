@@ -25,14 +25,16 @@
   <p>ps. if you come from PonyTown, just know you're welcome to cuddle, chat, and all. Just don't try to rp with me, I get awkward, haha.</p>
 </div>
 
-<div style="overflow: hidden;">
-  <a href="https://blinkies.cafe" target="_blank" style="float: left; margin-right: 10px;">
-    <img src="https://blinkies.cafe/b/display/0167-saw.gif" alt="Blinkie 1" style="width: 50px; height: 50px;">
+<div style="text-align: center;">
+  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://blinkies.cafe/b/display/0167-saw.gif" alt="Blinkie 1" style="max-width: 100%; height: auto;">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" style="float: left; margin-right: 10px;">
-    <img src="https://blinkies.cafe/b/blinkiesCafe-gm.gif" alt="Blinkie 2" style="width: 50px; height: 50px;">
+  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://blinkies.cafe/b/blinkiesCafe-gm.gif" alt="Blinkie 2" style="max-width: 100%; height: auto;">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" style="float: left;">
+  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
+    <img src="https://blinkies.cafe/b/blinkiesCafe-uX.gif" alt="Blinkie 3" 
+
 
 
 
