@@ -27,19 +27,10 @@
 
 <div style="text-align: center;">
   <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://blinkies.cafe/b/display/0167-saw.gif" alt="Blinkie 1" style="height: 20px; width: auto;">
+    <img src="https://blinkies.cafe/b/blinkiesCafe-UT.gif" alt="Blinkie 1" style="height: 20px; width: auto;">
   </a>
   <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://blinkies.cafe/b/blinkiesCafe-gm.gif" alt="Blinkie 2" style="height: 20px; width: auto;">
-  </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://blinkies.cafe/b/blinkiesCafe-uX.gif" alt="Blinkie 3" style="height: 20px; width: auto;">
-  </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://blinkies.cafe/b/blinkiesCafe-UT.gif" alt="Blinkie 4" style="height: 20px; width: auto;">
-  </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
-    <img src="https://blinkies.cafe/b/blinkiesCafe-CW.gif" alt="Blinkie 5" style="height: 20px; width: auto;">
+    <img src="https://blinkies.cafe/b/blinkiesCafe-CW.gif" alt="Blinkie 2" style="height: 20px; width: auto;">
   </a>
 </div>
 
