@@ -27,8 +27,8 @@
 
    
 
-<!-- Centering Blinkies -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px; justify-content: center; align-items: center; text-align: center;">
+<!-- Blinkies Section -->
+<div style="text-align: center; margin-top: 20px;">
   <a href="https://blinkies.cafe" target="_blank">
     <img src="https://blinkies.cafe/b/blinkiesCafe-CW.gif" alt="Blinkie 2" style="height: 20px; width: auto;">
   </a>
