@@ -6,7 +6,6 @@
 __________________________________________________________________________________________
 
 <div align="center">
-  <p>I'm new here, still learning how to use this site.</p>
   <p>You can call me Tulia, I'm twenty years old :)</p>
   <p><strong>!Please, don't interact with me if you're under eighteen!</strong></p>
   <p>I'm a big horror enjoyer, everything from tacky old movies to reddit posts and args.</p>
