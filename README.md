@@ -19,7 +19,7 @@
 <p>ps. if you come from PonyTown, just know you're welcome to cuddle, chat and all. Just don't try to rp with me, I get awkward, haha.</p>
 
 <p align="center">
-  <img src="https://i.imgur.com/Rw2qzeW.gif" width="500"><br>
+  <img src="(https://i.imgur.com/oCi9uJa.gif)" width="500"><br>
 </p>
 
 
