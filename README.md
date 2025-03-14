@@ -11,7 +11,12 @@
   <p><strong>!Please, don't interact with me if you're under eighteen!</strong></p>
   <p>
     I'm a big horror enjoyer, everything from tacky old movies to reddit posts and args.
-    <img src="https://i.imgur.com/OQ2MFXI.gif" width="30" style="vertical-align: middle;">
+    <img src="https://i.imgur.com/OQ2MFXI.gif" width="30" style="vertical-align: -1px;">
   </p>
   <p>I also love indie folk, metal and blues.</p>
-  <p>If you want to k
+  <p>If you want to know more check out my cardd :)</p>
+</div>
+
+<hr>  
+
+<p>ps. if you come from PonyTown, just know you're welcome to cuddle, chat and all. Just don't try to rp with me, I get awkward, haha.</p>
