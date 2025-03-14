@@ -26,22 +26,22 @@
 </div>
 
 <div style="text-align: center;">
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
+  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 5px;">
     <img src="https://blinkies.cafe/b/blinkiesCafe-UT.gif" alt="Blinkie 1" style="height: 20px; width: auto;">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
+  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 5px;">
     <img src="https://blinkies.cafe/b/blinkiesCafe-CW.gif" alt="Blinkie 2" style="height: 20px; width: auto;">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
+  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 5px;">
     <img src="https://blinkies.cafe/b/blinkiesCafe-uX.gif" alt="Blinkie 3" style="height: 20px; width: auto;">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
+  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 5px;">
     <img src="https://blinkies.cafe/b/display/0231-treeforest.gif" alt="Blinkie 4" style="height: 20px; width: auto;">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
+  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 5px;">
     <img src="https://i.imgur.com/yrJOrNo.gif" alt="Blinkie 5" style="height: 20px; width: auto;">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
+  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 5px;">
     <img src="https://i.imgur.com/jiujEpM.gif" alt="Blinkie 6" style="height: 20px; width: auto;">
   </a>
 </div>
