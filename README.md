@@ -25,33 +25,24 @@
   <p>ps. if you come from PonyTown, just know you're welcome to cuddle, chat, and all. Just don't try to rp with me, I get awkward, haha.</p>
 </div>
 
-<div class="blinkies-container">
+<div style="text-align: center;">
   <a href="https://blinkies.cafe" target="_blank">
-    <img src="https://blinkies.cafe/b/display/0231-treeforest.gif" alt="Blinkie 1">
+    <img src="https://blinkies.cafe/b/display/0231-treeforest.gif" alt="Blinkie 1" style="margin: 0 10px;">
   </a>
   <a href="https://i.imgur.com/yrJOrNo.gif" target="_blank">
-    <img src="https://i.imgur.com/yrJOrNo.gif" alt="Blinkie 2">
+    <img src="https://i.imgur.com/yrJOrNo.gif" alt="Blinkie 2" style="margin: 0 10px;">
   </a>
   <a href="https://i.imgur.com/jiujEpM.gif" target="_blank">
-    <img src="https://i.imgur.com/jiujEpM.gif" alt="Blinkie 3">
+    <img src="https://i.imgur.com/jiujEpM.gif" alt="Blinkie 3" style="margin: 0 10px;">
   </a>
   <a href="https://i.imgur.com/eAigpDv.gif" target="_blank">
-    <img src="https://i.imgur.com/eAigpDv.gif" alt="Blinkie 4">
+    <img src="https://i.imgur.com/eAigpDv.gif" alt="Blinkie 4" style="margin: 0 10px;">
   </a>
   <a href="https://i.imgur.com/haxK88b.gif" target="_blank">
-    <img src="https://i.imgur.com/haxK88b.gif" alt="Blinkie 5">
+    <img src="https://i.imgur.com/haxK88b.gif" alt="Blinkie 5" style="margin: 0 10px;">
   </a>
 </div>
-.blinkies-container {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-}
 
-.blinkies-container img {
-  height: auto;
-  width: auto;
-}
 
 
 
