@@ -25,11 +25,12 @@
   <p>ps. if you come from PonyTown, just know you're welcome to cuddle, chat, and all. Just don't try to rp with me, I get awkward, haha.</p>
 </div>
 
-<div class="blinkie-container">
+<div style="text-align: center; margin-top: 20px;">
   <a href="https://blinkies.cafe" target="_blank">
     <img src="https://blinkies.cafe/b/blinkiesCafe-gm.gif" alt="blinkies.cafe | make your own blinkies!">
   </a>
 </div>
+
 
 
 
