@@ -26,7 +26,6 @@
 </div>
 
    
-
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-top: 20px;">
   <a href="https://blinkies.cafe" target="_blank" style="margin: 0 10px;">
     <img src="https://i.imgur.com/yrJOrNo.gif" alt="Blinkie 5" style="height: 20px; width: auto;">
@@ -44,7 +43,10 @@
     <img src="https://i.imgur.com/eAigpDv.gif" alt="Blinkie 7" style="height: 20px; width: auto;">
   </a>
   <a href="https://blinkies.cafe" target="_blank" style="margin: 0 10px;">
-    <img src="https://i.imgur.com/haxK88b.gif" alt="Blinkie 8" st
+    <img src="https://i.imgur.com/haxK88b.gif" alt="Blinkie 8" style="height: 20px; width: auto;">
+  </a>
+</div>
+
 
 
 
