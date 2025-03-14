@@ -27,8 +27,7 @@
 
    
 
-<!-- Blinkies Section -->
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 5px; margin-top: 20px;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;">
   <a href="https://blinkies.cafe" target="_blank">
     <img src="https://blinkies.cafe/b/blinkiesCafe-CW.gif" alt="Blinkie 2" style="height: 20px; width: auto;">
   </a>
@@ -48,6 +47,7 @@
     <img src="https://i.imgur.com/haxK88b.gif" alt="Blinkie 8" style="height: 20px; width: auto;">
   </a>
 </div>
+
 
 
 
