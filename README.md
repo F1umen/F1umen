@@ -29,13 +29,13 @@
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; margin-top: 20px;">
   <a href="https://blinkies.cafe" target="_blank" style="margin: 0 10px;">
+    <img src="https://i.imgur.com/yrJOrNo.gif" alt="Blinkie 5" style="height: 20px; width: auto;">
+  </a>
+  <a href="https://blinkies.cafe" target="_blank" style="margin: 0 10px;">
     <img src="https://blinkies.cafe/b/blinkiesCafe-CW.gif" alt="Blinkie 2" style="height: 20px; width: auto;">
   </a>
   <a href="https://blinkies.cafe" target="_blank" style="margin: 0 10px;">
     <img src="https://blinkies.cafe/b/display/0231-treeforest.gif" alt="Blinkie 4" style="height: 20px; width: auto;">
-  </a>
-  <a href="https://blinkies.cafe" target="_blank" style="margin: 0 10px;">
-    <img src="https://i.imgur.com/yrJOrNo.gif" alt="Blinkie 5" style="height: 20px; width: auto;">
   </a>
   <a href="https://blinkies.cafe" target="_blank" style="margin: 0 10px;">
     <img src="https://i.imgur.com/jiujEpM.gif" alt="Blinkie 6" style="height: 20px; width: auto;">
@@ -47,6 +47,7 @@
     <img src="https://i.imgur.com/haxK88b.gif" alt="Blinkie 8" style="height: 20px; width: auto;">
   </a>
 </div>
+
 
 
 
