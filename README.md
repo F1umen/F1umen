@@ -25,7 +25,7 @@
   <p>ps. if you come from PonyTown, just know you're welcome to cuddle, chat, and all. Just don't try to rp with me, I get awkward, haha.</p>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh; text-align: center;">
   <a href="https://blinkies.cafe" target="_blank" style="margin: 10px;">
     <img src="https://blinkies.cafe/b/blinkiesCafe-CW.gif" alt="Blinkie 2" style="height: 20px; width: auto;">
   </a>
@@ -45,6 +45,7 @@
     <img src="https://i.imgur.com/haxK88b.gif" alt="Blinkie 8" style="height: 20px; width: auto;">
   </a>
 </div>
+
 
 
 
