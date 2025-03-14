@@ -41,7 +41,7 @@
   <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
     <img src="https://i.imgur.com/yrJOrNo.gif" alt="Blinkie 5" style="height: 20px; width: auto;">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 10px;">
+  <a href="https://blinkies.cafe" target="_blank" style="display: inline-block; margin: 0 30px;">
     <img src="https://i.imgur.com/jiujEpM.gif" alt="Blinkie 6" style="height: 20px; width: auto;">
   </a>
 </div>
