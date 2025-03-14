@@ -26,25 +26,32 @@
 </div>
 
 <div class="blinkies-container">
-  <a href="https://blinkies.cafe" target="_blank" class="blinkie">
-    <img src="https://blinkies.cafe/b/blinkiesCafe-CW.gif" alt="Blinkie 2">
+  <a href="https://blinkies.cafe" target="_blank">
+    <img src="https://blinkies.cafe/b/display/0231-treeforest.gif" alt="Blinkie 1">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" class="blinkie">
-    <img src="https://blinkies.cafe/b/display/0231-treeforest.gif" alt="Blinkie 4">
+  <a href="https://i.imgur.com/yrJOrNo.gif" target="_blank">
+    <img src="https://i.imgur.com/yrJOrNo.gif" alt="Blinkie 2">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" class="blinkie">
-    <img src="https://i.imgur.com/yrJOrNo.gif" alt="Blinkie 5">
+  <a href="https://i.imgur.com/jiujEpM.gif" target="_blank">
+    <img src="https://i.imgur.com/jiujEpM.gif" alt="Blinkie 3">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" class="blinkie">
-    <img src="https://i.imgur.com/jiujEpM.gif" alt="Blinkie 6">
+  <a href="https://i.imgur.com/eAigpDv.gif" target="_blank">
+    <img src="https://i.imgur.com/eAigpDv.gif" alt="Blinkie 4">
   </a>
-  <a href="https://blinkies.cafe" target="_blank" class="blinkie">
-    <img src="https://i.imgur.com/eAigpDv.gif" alt="Blinkie 7">
-  </a>
-  <a href="https://blinkies.cafe" target="_blank" class="blinkie">
-    <img src="https://i.imgur.com/haxK88b.gif" alt="Blinkie 8">
+  <a href="https://i.imgur.com/haxK88b.gif" target="_blank">
+    <img src="https://i.imgur.com/haxK88b.gif" alt="Blinkie 5">
   </a>
 </div>
+.blinkies-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.blinkies-container img {
+  height: auto;
+  width: auto;
+}
 
 
 
