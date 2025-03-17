@@ -17,7 +17,7 @@
       </span>
     </p>
     <p>I also love indie folk, metal, and blues.</p>
-    <p>If you want to know more, check out my cardd :)</p>
+    <p>If you want to know more, check out my strawpage :)</p>
   </div>
 
   <hr>  
