@@ -1,6 +1,6 @@
 <div style="border: 2px solid #000000; padding: 20px; border-radius: 10px; width: fit-content; margin: 0 auto; background-color: #ffffff;">
   <p align="center">
-    <img src="https://i.imgur.com/sXl71Ca.jpg" width="500"><br>
+    <img src="https://i.imgur.com/E08o2zM.jpg" width="500"><br>
   </p>
 
   <p align="center"><strong style="font-size: 24px;">Hi there!☀️</strong></p>
