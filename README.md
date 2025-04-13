@@ -13,7 +13,7 @@
     <p>
       I'm a big horror enjoyer, everything from tacky old movies to reddit posts and args.
       <span style="display: inline-block; vertical-align: middle; margin-left: 5px;">
-        <img src="https://i.imgur.com/OQ2MFXI.gif" width="30">
+        <img src="(https://i.imgur.com/sXl71Ca.jpg)" width="30">
       </span>
     </p>
     <p>I also love indie folk, metal, and blues.</p>
