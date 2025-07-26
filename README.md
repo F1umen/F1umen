@@ -22,7 +22,7 @@
 
   <hr>  
 
-  <p>ps. if you come from PonyTown, just know you're welcome to cuddle, chat, and all. Just don't try to rp with me, I get awkward, haha.</p>
+  <p>ps. if you come from PonyTown, just know you're welcome to cuddle, chat, and all. Just don't try to rp with me, I get awkward, haha. Oh, and please don't flirt with me. I get very uncomfy. Thank you!</p>
 </div>
 
   
